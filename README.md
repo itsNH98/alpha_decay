@@ -1,6 +1,6 @@
 # Alpha Decay and loss of statistical significance
 
-**Note: For future purposes. Not intended to be published.**
+**Note: Consider this as an ongoing project for future purposes. Not intended to be published in its actual state.**
 
 ## Abstract
 
