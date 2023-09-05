@@ -1,10 +1,12 @@
-# Alpha Decay and loss of statistical significance
+# Anomaly research
 
 **Note: Consider this as an ongoing project for future purposes. Not intended to be published in its actual state.**
 
 ## Abstract
 
-We know that anomalies to the efficient market lose significance over time, and markedly so after publication. Our objective is to assess and demonstrate the existence of post-publication decay and loss of statistical of market anomalies over time. Using Chen and Zimmerman (2020) panel of clear predictors, we apply linear asset pricing tests to determine whether statistically significant alpha decay exists. We find significant alpha decay in the panel of predictors, specifically after publication and the start of the second century. Many anomalies that are widely believed to generate alpha amount to nothing when taken out of sample. Anomalies which remain significant seem to corroborate the limits to arbitrage theory as most emphasize niche sections of the market or complex strategies. Some strategies pertaining to momentum and earnings seem to hold fast, although they show no signs of improvement over the years. 
+We know that predictors of excess returns integrated in factor models lose significance over time, and markedly so after publication. Our objective is to assess and demonstrate the existence of post-publication decay and loss of statistical of market anomalies over time. Using Chen and Zimmerman (2020) panel of clear predictors, we apply linear asset pricing tests to determine whether statistically significant alpha decay exists. We find significant alpha decay in the panel of predictors, specifically after publication and the start of the second century. Many anomalies that are widely believed to generate alpha amount to nothing when taken out of sample. Anomalies which remain significant seem to corroborate the limits to arbitrage theory as most emphasize niche sections of the market or complex strategies. Some strategies pertaining to momentum and earnings seem to hold fast, although they show no signs of improvement over the years. 
+
+In a second stage, we use information about the alpha decay of clear predictors of excess returns to gain information about the select anomalies who seem to hold in signficance through time. That is, we show correlation measures between numerous very strong predictors of excess returns, both at the mean level and at some given quantile. In this manner, we are building the framework to eventually craft a factor timing strategy that is informed by the joint dynamic of the predictors. 
 
 ## References 
 
